@@ -1,93 +1,14 @@
-{
-    "january_2022": [
-    {
-      "id": 1,
-      "inc_no" : "000001",
-      "inc_title" : "Incident Title",
-
-      "inc_occured_date" : "01-10-2022",
-      "inc_occured_time" : "18:00",
-      "inc_target_system" : "ToSTNET",
-
-      "inc_img" : "00004",
-
-      "inc_status" : "Completed",
-      "inc_impact" : "No Business Impact",
-
-      "inc_corresponding_member1" : "TA",
-      "inc_corresponding_member2" : "TJ",
-      "inc_corresponding_member3" : "TO",
-
-      "inc_srt_date" : "22:45",
-      "inc_srt_time" : "22:45",
-
-      "inc_issue" : "Network Failure",
-      "inc_task_flow" : "Trading Down (Daytime)",
-      "inc_work_hours" :"04:30",
-      "inc_work_time" : "-",
-
-      "inc_sub_info" : "What is Lorem Ipsum?",
-      "inc_main_info" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
-
-    {
-      "id": 1,
-      "inc_no" : "000001",
-      "inc_title" : "Incident Title",
-
-      "inc_occured_date" : "01-10-2022",
-      "inc_occured_time" : "18:00",
-      "inc_target_system" : "ToSTNET",
-
-      "inc_img" : "00004",
-
-      "inc_status" : "Completed",
-      "inc_impact" : "No Business Impact",
-
-      "inc_corresponding_member1" : "TA",
-      "inc_corresponding_member2" : "TJ",
-      "inc_corresponding_member3" : "TO",
-
-      "inc_srt_date" : "22:45",
-      "inc_srt_time" : "22:45",
-
-      "inc_issue" : "Network Failure",
-      "inc_task_flow" : "Trading Down (Daytime)",
-      "inc_work_hours" :"04:30",
-      "inc_work_time" : "-",
-
-      "inc_sub_info" : "What is Lorem Ipsum?",
-      "inc_main_info" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
-
-    {
-      "id": 2,
-      "inc_no" : "000002",
-      "inc_title" : "Incident Title",
-
-      "inc_occured_date" : "01-10-2022",
-      "inc_occured_time" : "18:00",
-      "inc_target_system" : "ToSTNET",
-
-      "inc_img" : "00004",
-
-      "inc_status" : "Completed",
-      "inc_impact" : "No Business Impact",
-
-      "inc_corresponding_member1" : "TA",
-      "inc_corresponding_member2" : "TJ",
-      "inc_corresponding_member3" : "TO",
-
-      "inc_srt_date" : "22:45",
-      "inc_srt_time" : "22:45",
-
-      "inc_issue" : "Network Failure",
-      "inc_task_flow" : "Trading Down (Daytime)",
-      "inc_work_hours" :"04:30",
-      "inc_work_time" : "-",
-
-      "inc_sub_info" : "What is Lorem Ipsum?",
-      "inc_main_info" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    }
-  ],
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
